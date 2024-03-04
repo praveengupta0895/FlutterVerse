@@ -1,0 +1,10 @@
+export  'package:get/get.dart';
+export 'package:flutter/material.dart';
+export 'package:flutter/foundation.dart';
+export 'controller/app_controller/utils/json_pref_file.dart';
+export 'package:get/get_utils/src/platform/platform.dart';
+export 'controller/app_controller/utils/platform_info.dart';
+export 'package:get/get_navigation/src/routes/get_route.dart';
+export 'app_router.dart';
+export 'package:flutter/services.dart';
+export  'package:animations/animations.dart';
