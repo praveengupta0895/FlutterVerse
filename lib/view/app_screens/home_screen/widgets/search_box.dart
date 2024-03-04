@@ -2,6 +2,7 @@
 import 'package:widgetgallery/controller/app_controller/home_screen_controller/common/search_box_controller.dart';
 
 import '../../../../common_libraries.dart';
+import '../../widget_information_screen/widget_info_screen_new.dart';
 
 class SearchBox extends StatelessWidget {
   const SearchBox({super.key});
@@ -93,7 +94,7 @@ class SearchBox extends StatelessWidget {
                                   child: InkWell(
                                     onTap: () {
                                       // Handle onTap action
-                                      // Get.to(() => WidgetInformationScreen(widgetData: item,));
+                                      Get.to(() => WidgetInformationScreenNew(widgetData: item,));
                                     },
                                     child: Card(
                                       // color:
