@@ -7,8 +7,8 @@ class AppController extends GetxController{
   RxBool isDarkModeCustom=false.obs;
 
   //will verify previous session and also use for switching theme
-  var currentLightThemeIndex = 8.obs;
-  var currentDarkThemeIndex = 9.obs;
+  var currentLightThemeIndex = 2.obs;
+  var currentDarkThemeIndex = 3.obs;
 
 
   //list of custom themes
