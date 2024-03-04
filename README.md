@@ -1,4 +1,4 @@
-# FlutterVerse (WidgetGallery) Cookbook
+# FlutterVerse Cookbook
 
 ## Introduction
 
