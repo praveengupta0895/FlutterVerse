@@ -85,14 +85,9 @@ Happy coding!
 
 ## Screenshots
 
-![Screenshot 1](git_screenshots/1.png)
 ![Screenshot 2](git_screenshots/2.png)
 ![Screenshot 3](git_screenshots/3.png)
 ![Screenshot 4](git_screenshots/4.png)
-![Screenshot 5](git_screenshots/5.png)
-![Screenshot 6](git_screenshots/6.png)
-![Screenshot 7](git_screenshots/7.png)
-![Screenshot 8](git_screenshots/8.png)
 ![Screenshot 9](git_screenshots/9.png)
 ![Screenshot 10](git_screenshots/10.png)
 ![Screenshot 11](git_screenshots/11.png)
