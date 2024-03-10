@@ -151,11 +151,9 @@ class SearchBox extends StatelessWidget {
                         ),
                             // : const SizedBox(),
                         // Add a search icon or button to the search bar
-                        prefixIcon: IconButton(
-                          icon: const Icon(Icons.search),
-                          onPressed: () {
-                            // Perform the search here
-                          },
+                        prefixIcon: const Icon(
+                          Icons.search
+
                         ),
                         border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(20.0),
